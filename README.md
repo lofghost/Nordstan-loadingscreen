@@ -1,8 +1,8 @@
-##############################
-##############################
-##############LOFGHOST ART####
-##############################
-##############################
+##########
+##########
+LOFGHOST ART
+##########
+##########
 
 This loadingscreen is made for Nordstan Roleplay, 
 by lofghost (discord: https://discord.gg/cRHr2Nw) 
